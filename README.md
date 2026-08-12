@@ -1,1 +1,17 @@
-# VaillantWebchatDemo
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Vaillant - Testing Webchat</title>
+</head>
+<body style="font-family: Arial, sans-serif; padding: 24px;">
+  <h1>Vaillant Testing</h1>
+  <p>This is a demo website used for customer testing of webchat.</p>
+
+  <script id="v-chat-widget"
+    src="https://prod.d3qb3l758h0vzg.amplifyapp.com/index.js?widget_id=25577670-fbb9-42de-8068-479c78c6fc99&chat_title=Post+Office+Travel+Money+%E2%80%93+Live+Chat&chat_subtitle=Chat+with+one+of+our+support+agents+for+help+with+your+query.&company_name=First+Rate+Exchange&primary_color=%23D2D2D2&show_download_transcription_sheet=true">
+  </script>
+
+</body>
+</html>
