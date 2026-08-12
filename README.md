@@ -1,20 +1,3 @@
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Vaillant - Testing Webchat</title>
-</head>
+# Vaillant WebChat Demo
 
-<body style="font-family: Arial, sans-serif; padding: 24px;">
-
-  <h1>Vaillant Testing</h1>
-  <p>This is a demo website used for customer testing of webchat.</p>
-
-  <script
-    id="v-chat-widget"
-    src="https://prod.d3qb3l758h0vzg.amplifyapp.com/index.js?widget_id=6547958d-84eb-4dad-90ed-17c55b0ec926&company_name=Vaillant&primary_color=%23D2D2D2&show_download_transcription_sheet=true">
-  </script>
-
-</body>
-</html>
+This is a demo website used for customer testing of Vaillant webchat.
