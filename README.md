@@ -1,3 +1,3 @@
 # Vaillant WebChat Demo
 
-This is a demo website used for customer testing of Vaillant webchat.
+This is a demo website used for testing of Vaillant webchat.
